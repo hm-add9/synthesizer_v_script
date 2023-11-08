@@ -11,7 +11,7 @@ Synthesizer Vのスクリプトを、元々は自分の便利用に作ってた�
 ダイアログ表示時に、設定中の値を初期値に表示するので、今は、複数ノートには設定できません。
 （そのうち、複数ノート一括も対応？）
 
-<img src="https://github.com/hm-add9/synthesizer_v_script/assets/127062996/4dd3ce7d-14b7-4afd-98fc-2d1824391f8e" width="400">
+<img src="https://github.com/hm-add9/synthesizer_v_script/assets/127062996/3dfeec62-450b-41cb-9e4d-b7921138fd42" width="400">
 
 ### 🎙️ f_vibrato_pichbend.js - ノートごとのビブラートをピッチベンドで作成
 ノートごとのビブラート調整スクリプトでうまく設定できない場合の回避策で作りました。  
@@ -19,12 +19,14 @@ Synthesizer Vのスクリプトを、元々は自分の便利用に作ってた�
 ビブラート設定自体はリセットされます。
 元のピッチベンドは残ったままなので、一旦、削除してから本スクリプトを実行してください。
 
-<img src="https://github.com/hm-add9/synthesizer_v_script/assets/127062996/269ab5dd-6b68-4e0d-9be2-2d8716656f2b" width="400">
+<img src="https://github.com/hm-add9/synthesizer_v_script/assets/127062996/2e982759-09b8-4753-a722-390a455e3d51" width="400">
 
 ### 🎙️ f_up_moment.js - ノートの開始、または、終了でしゃくりあげる
 ノート発音時、ノート終了時にそれぞれ、一瞬声を裏返させます。
 ピッチベンドで再現しています。
 開始、終了それぞれで独立して設定できます。効き具合をゼロにすると、何もしません。
+
+<img src="https://github.com/hm-add9/synthesizer_v_script/assets/127062996/1befc19d-4d3c-45a5-a66e-455ecfe9b730" width="400">
 
 --
 
